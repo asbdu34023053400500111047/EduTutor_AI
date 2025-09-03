@@ -42,4 +42,4 @@ IBM Watsonx - https://www.ibm.com/watsonx
 IBM Granite Models Info - https://www.ibm.com/blog/ibm-granite-models
 
 
-
+https://drive.google.com/file/d/103Jnt5sSK7Aqr_i2seNTB3IpnS9CBWr8/view?usp=drivesdk
